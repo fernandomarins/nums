@@ -1,3 +1,3 @@
 # Nums
 
-## This code calculate numerological numbers
+### This code calculate numerological numbers
